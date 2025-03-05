@@ -1,8 +1,6 @@
-package org.example
+package io.github.liyulin
 
 import kotlinx.serialization.Serializable
-import kotlinx.datetime.LocalDate
-import kotlinx.datetime.LocalDateTime
 
 @Serializable
 data class WakeUpShareResponse(
